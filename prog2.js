@@ -23,5 +23,5 @@ else
 {
     grade='0';
 }
-console.log("")
-console.log("The Grade obtained by student at "+marks+" is "+grade+".")
+console.log("");
+console.log("The Grade obtained by student at "+marks+" is "+grade+".");
