@@ -1,0 +1,70 @@
+html {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content:centre;
+  }
+  .Container{
+    background-color:yellow;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 40%;
+  }
+  body {
+    background-color: #7f894c;
+    display: flex;
+    display: inline-block;
+    align-items: center;
+  }
+  .box {
+    height: 100px;
+    width: 100px;
+    background-color: #b2b8a3;
+    border: 1px solid white;
+    font-size: 50px;
+  }
+  h1
+  {
+    margin-left: 60%;
+    font-size: 30px;
+  }
+  h2
+  {
+    margin-left: 50%;
+    font-size: 20px;
+    border: 2px solid;
+    width: 200px;
+  }
+  .Container2
+  {
+    margin-top: 20px;
+    display: flex;
+    font-size: 30px;
+    justify-content: space-around;
+    height: 40px;
+    width: 400px;
+    margin-left: 30%;
+  }
+  .player1
+  {
+    border: 2px solid;
+    width: 150px;
+  }
+  .player2
+  {
+    border: 2px solid;
+    width: 150px;
+  }
+  .restart
+  {
+    background-color: #565b3c;
+    border: 2px solid;
+    border-radius: 15%;
+    width: 100px;
+    height: 30px;
+    margin-left: 66%;
+    margin-top: 10%;
+    font-size: 13px;
+  }
